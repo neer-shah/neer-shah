@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 <br>Hi, I'm Neer<br><br>I'm a Mathematics & Computer Science graduate who enjoys building things that solve problems - whether that's:<br> - analysing large datasets, <br> - designing APIs, <br> - or experimenting with machine learning models.<br><br>Outside of work, I build projects to keep learning and improving 🚀<br><br>Tech I Use: <br>      Python • C++ • SQL • FastAPI • Linux • Visualisation Tools (e.g. matplotlib) • Machine Learning Tools (e.g. NumPy)<br><br>🤝 Let’s Collaborate<br>Always open to interesting projects or ideas - feel free to reach out!
+👋 Hi, I'm Neer<br><br>I'm a Mathematics & Computer Science graduate who enjoys building things that solve problems - whether that's:<br> - analysing large datasets, <br> - designing APIs, <br> - or experimenting with machine learning models.<br><br>Outside of work, I build projects to keep learning and improving 🚀<br><br>Tech I Use: <br>      Python • C++ • SQL • FastAPI • Linux • Visualisation Tools (e.g. matplotlib) • Machine Learning Tools (e.g. NumPy)<br><br>🤝 Let’s Collaborate<br>Always open to interesting projects or ideas - feel free to reach out!
 
 
 ## 🌐 Socials:
